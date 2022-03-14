@@ -1,0 +1,40 @@
+/*-----------------------------------------------------------------------------------
+    Template Name: Template - Increftos
+    Description: Template - Template HTML5 Template
+    Author: Asif imtiaz udoy
+    Version: 1.0
+-----------------------------------------------------------------------------------
+    CSS INDEX
+    ===================
+    1. Main_menu
+    2. Banner
+    3. About
+    4. Services
+    5. Testimonial
+    6. Counter
+    7. Profile
+    8. News
+
+
+    -----------------------------------------------------------------------------------*/
+
+
+
+    /* font family */
+
+
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Oswald:wght@400;500;600;700&display=swap');
+
+
+
+    @import 'main/variable';
+    @import 'main/mixins';
+    @import 'main/global';
+    @import 'main/normalize';
+
+
+    // index page start
+
+    @import 'pages/index';
+
+    // index page end
